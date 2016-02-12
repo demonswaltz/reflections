@@ -1,0 +1,7 @@
+initialinze a repository creates a file that logs changes in the working
+directory.  Without this file git wouldn't be able to save snapshots of 
+the directory
+
+The staging area is an in between the working directory and the 
+repository.  It allows you to select which file changes are in included
+in a particular commit.
