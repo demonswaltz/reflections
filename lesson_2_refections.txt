@@ -5,3 +5,7 @@ the directory
 The staging area is an in between the working directory and the 
 repository.  It allows you to select which file changes are in included
 in a particular commit.
+
+You can make changes to multiple files and then use the staging area to 
+perform multiple commits to ensure that each commit only includes 
+logical changes.
