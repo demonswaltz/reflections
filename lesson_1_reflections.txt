@@ -1,0 +1,22 @@
+By being able to look at only the difference between the files
+it was much easier to spot the errors.
+Looking through every line of code would make it much harder because
+you'd have to track two documents side by side.
+The notation for diff -u is also helpful in that it shows what was in 
+the old document vs. what is in the new document.
+
+if you have access to all the old version of a file you can easily 
+revert to the place before you made the mistake eliminate the mistake 
+and correct it going forward.
+
+When saving is a matter of retaining data in the event of a system 
+malfunction (i.e. losing power, or Windows freezing) and not a matter of
+creating a piece of compilable code then automatic saving on a timed 
+interval will get the job done.  If, however, the point of saving is to 
+have a piece of working code then a manual commit makes the most sense.
+
+If you break it  you can always just go back and start over... no blood no foul
+
+creating an Tinder AI
+
+
