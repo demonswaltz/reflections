@@ -9,3 +9,6 @@ in a particular commit.
 You can make changes to multiple files and then use the staging area to 
 perform multiple commits to ensure that each commit only includes 
 logical changes.
+
+When creating a testing things before adding them to the final version.
+Branches allow you to have more than one working version saved at a time.
