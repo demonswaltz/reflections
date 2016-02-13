@@ -12,3 +12,17 @@ logical changes.
 
 When creating a testing things before adding them to the final version.
 Branches allow you to have more than one working version saved at a time.
+
+by looking at where each commit is connect to the lines of branches you
+are able to get an idea of how they are related.. this is a dumb question.
+
+merge takes two seperate branches compares them to the point where they 		
+split and removes anything that was removed from either branch since the 
+split and adds anything that has been added since the split.  Creating 
+a new branch that is a hybrid of the two.
+
+Git does a good job of looking at the changes made and comparing them to
+previous versions.  It is able to easily see where changes have been made.
+It is not always good at deciding which change is the one that needs to be
+kept, but will point out and allow the user to make that decision.  It is 
+much faster at finding and comparing changes than you would be manually.
