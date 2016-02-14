@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+    Keeping your work local is good if you are the only one working on it or accessing it.
+    It would be a good idea to create a remote repository if you are sharing with other
+    people or if you  are using a service that accesses your code...
+    
