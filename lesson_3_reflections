@@ -3,3 +3,9 @@ When would you want to use a remote repository rather than keeping all your work
     It would be a good idea to create a remote repository if you are sharing with other
     people or if you  are using a service that accesses your code...
     
+Why might you want to always pull changes manually rather than having 
+Git automatically stay up-to-date with your remote repository?
+	If multiple people are working on the same file pulling changes might 
+	write over changes you've made so being able to choose when you pull
+	files will make it easier to not lose your work.
+
