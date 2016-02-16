@@ -15,4 +15,8 @@ Describe the differences between forks, clones, and branches. When would you use
 	contain changes that you aren't ready (or may never want) to connect to your master branch.  Forks are for 
 	when you want to make changes to a repository that you don't own.  Clones are for when you want to make changes 
 	to a repository that you may or may not own locally. Branches are for changes that are experimental.
+	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	It allows you to work offline.  It also allows you to check changes that have been made since the last pull
+	and gives you a history to work from.
 
